@@ -1,2 +1,2 @@
-# Algor-tmos-
-Exercícios de registros 
+# Algorítmos
+Exercício de registros em C
